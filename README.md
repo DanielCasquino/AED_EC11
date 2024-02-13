@@ -5,6 +5,4 @@ Graphs
 
 ->Daniel Casquino
 
-->Ian Gonzalez
-
 ->Gabriel Blanco
